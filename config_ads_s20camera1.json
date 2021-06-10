@@ -1,0 +1,64 @@
+{
+  "AppConfig": {
+    "APP_NAME": "S20 Camera",
+    "PKG_NAME": "com.ss.galaxy.s10.camera.s10camera",
+    "VER_CODE": 15,
+    "VER_NAME": "1.2.15",
+    "COMPULSORY": 0,
+    "ADS_TYPE": 1,
+    "ADS_ENABLE": 1,
+    "FIRST_SHOW": 5,
+    "NEXT_SHOW": 10,
+    "ABOUT1": "- App Pro",
+    "ABOUT2": "- No Ads",
+    "ABOUT3": "- Free Function"
+  },
+  "NotiInfo": {
+    "STATUS": 1,
+    "HOUR": "16",
+    "MINUTE": "00",
+    "TITLE": "❤ ❤ Have a nice day!!",
+    "CONTENT": "Let’s take selfies with beautiful features, filters, and stickers!!!"
+  },
+  "Admob": {
+    "APP_ID": "ca-app-pub-5026270687123701~5062167257",
+    "AD_UNIT": {
+      "FULL_START": "ca-app-pub-5026270687123701/1156277845",
+      "FULL_GALLERY": "ca-app-pub-5026270687123701/6217032836",
+      "FULL_SETTING": "ca-app-pub-5026270687123701/3590869491",
+      "FULL_GIFT": "ca-app-pub-5026270687123701/7338542812",
+      "FULL_CAMERA": "ca-app-pub-5026270687123701/9773134468",
+      "FULL_EXIT": "ca-app-pub-5026270687123701/4520807786",
+      "FULL_EDIT": "ca-app-pub-5026270687123701/9581562778",
+      "FULL_SHARE": "ca-app-pub-5026270687123701/9344623580",
+      "BANNER_GALLERY": "ca-app-pub-5026270687123701/8620684950",
+      "BANNER_SHOW": "ca-app-pub-5026270687123701/2824582733",
+      "BANNER_SETTING": "ca-app-pub-5026270687123701/7307603282",
+      "BANNER_EDIT": "ca-app-pub-5026270687123701/6572256054",
+      "NATIVE_MAIN": "ca-app-pub-5026270687123701/6535956407",
+      "NATIVE_SHARE": "ca-app-pub-5026270687123701/7168002482"
+    }
+  },
+  "AppMoreInfo": [
+    {
+      "APPMORE_NAME": "Oppo Reno5 Camera",
+      "PKG_NAME": "com.selfie.expert.camera.oppo.reno",
+      "URL_ICON": "https://bit.ly/3c2o3Kw",
+      "URL_COVER": "https://bit.ly/3vI4bUQ",
+      "SHORT_DES": "Camera for Oppo Reno5 is Selfie Expert Camera with Beauty Filters & effects",
+      "DOWNLOAD": "100K+",
+      "RATING": "4.8",
+      "SIZE": "13MB"
+    },
+    {
+      "APPMORE_NAME": "S20 Camera Pro",
+      "PKG_NAME": "com.ultra.note20.samsung.galaxy.s20.camera",
+      "URL_ICON": "https://bit.ly/3fFjip2",
+      "URL_COVER": "https://bit.ly/3gQvC7i",
+      "SHORT_DES": "S20 Camera - Camera for Galaxy S20 & Note 20 with amazing features & cool filter",
+      "DOWNLOAD": "100K+",
+      "RATING": "4.8",
+      "SIZE": "29MB"
+    }
+  ]
+}
